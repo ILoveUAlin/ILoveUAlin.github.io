@@ -1,0 +1,17 @@
+.divMain{
+    margin:0 auto 0 auto;
+    width:500px;
+    background-color: white;
+    border: solid 2px;
+    border-color: black;
+
+    font-family: 'Cool';
+    text-align: center;
+    font-size: 24px;
+}
+
+@font-face {
+	font-family: 'Cool'; 
+	src: local('Cool'),
+		url(font/Cool.ttf); 
+}
